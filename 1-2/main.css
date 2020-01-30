@@ -1,0 +1,36 @@
+* {
+    font-size: 20px;
+ }
+ 
+
+ol, td, p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table{
+    border: 1px solid #dee2e6;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style-type: square;
+}
+
+form{
+    font-size: 22px;
+}
+
+form > label {
+    color: red;
+}
+
+.input-group > input {
+    width:100%;
+}
+
+.input-group > select {
+    width:100%;
+}
